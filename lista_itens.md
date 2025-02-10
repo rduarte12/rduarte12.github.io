@@ -1,5 +1,14 @@
 # Lista de Itens para mudança
 
+## Índice
+- [Geral](#geral)
+- [Banheiro](#banheiro)
+- [Cozinha](#cozinha)
+- [Quarto](#quarto)
+- [Sala](#sala)
+- [Lavanderia](#lavanderia)
+
+
 ## **Geral:**
 
 - [ ] Fósforo  
