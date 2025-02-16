@@ -23,7 +23,8 @@
 - [ ] Tapete de banheiro  
 - [ ] 1 x Lixo  
 - [ ] Toalha de banho  
-- [ ] Lixo de banheiro  
+- [x] Lixo de banheiro
+- [ ] Escova de vaso sanitário
 
 ## Cozinha:
 
