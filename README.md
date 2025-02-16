@@ -11,7 +11,7 @@
 
 ## **Geral:**
 
-- [ ] Fósforo  
+- [x] Fósforo  
 - [ ] Escadinha / Banquinho  
 - [ ] Espada de São Jorge  
 
@@ -28,29 +28,29 @@
 ## Cozinha:
 
 - [ ] Lixo para cozinha  
-- [ ] Garfos e facas  
-- [ ] Colheres de sopa e sobremesa  
-- [ ] Colher de Pau  
+- [x] Garfos e facas  
+- [x] Colheres de sopa e sobremesa  
+- [x] Colher de Pau  
 - [ ] Espumadeira e afins  
-- [ ] Faca de corte  
-- [ ] Tábua  
-- [ ] Porta temperos  
+- [x] Faca de corte  
+- [x] Tábua  
+- [x] Porta temperos  
 - [ ] Pratos  
-- [ ] Xícaras  
+- [x] Xícaras  
 - [ ] Forma de metal  
 - [ ] Forma de pizza  
 - [ ] _"Marinex"_  
-- [ ] Potes de vidro que posso usar para guardar comida e usar no micro-ondas  
+- [x] Potes de vidro que posso usar para guardar comida e usar no micro-ondas  
 - [ ] Copos  
-- [ ] 1 x Panela para arroz  
-- [ ] 1 x Panela para carne _(Frigideira)_  
-- [ ] 1 x Panela de pressão  
-- [ ] 1 x leiteira  
+- [x] 1 x Panela para arroz  
+- [x] 1 x Panela para carne _(Frigideira)_  
+- [x] 1 x Panela de pressão  
+- [x] 1 x leiteira  
 - [ ] 1 x forma de alumínio para salada  
 - [ ] 1 x Fruteira  
-- [ ] 1 x Escorredor  
+- [x] 1 x Escorredor  
 - [ ] 1 x Filtro de água  
-- [ ] 2 x garrafas de vidro para salada  
+- [x] 2 x garrafas de vidro para salada  
 - [ ] 2 x formas de gelo  
 - [ ] Jogo Americano  
 - [ ] Toalha de mesa  
