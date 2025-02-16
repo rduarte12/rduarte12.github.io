@@ -37,21 +37,21 @@
 - [x] Porta temperos  
 - [x] Pratos  
 - [x] Xícaras  
-- [ ] Forma de metal  
-- [ ] Forma de pizza  
-- [ ] _"Marinex"_  
+- [x] Forma de metal  
+- [x] Forma de pizza  
+- [x] _"Marinex"_  
 - [x] Potes de vidro que posso usar para guardar comida e usar no micro-ondas  
 - [x] Copos  
 - [x] 1 x Panela para arroz  
 - [x] 1 x Panela para carne _(Frigideira)_  
 - [x] 1 x Panela de pressão  
 - [x] 1 x leiteira  
-- [ ] 1 x forma de alumínio para salada  
-- [ ] 1 x Fruteira  
+- [-] 1 x forma de alumínio para salada  
+- [x] 1 x Fruteira  
 - [x] 1 x Escorredor  
 - [ ] 1 x Filtro de água  
 - [x] 2 x garrafas de vidro para salada  
-- [ ] 2 x formas de gelo  
+- [x] 1 x formas de gelo  
 - [x] Jogo Americano  
 - [x] Toalha de mesa  
 - [x] Pano de prato  
