@@ -35,13 +35,13 @@
 - [x] Faca de corte  
 - [x] Tábua  
 - [x] Porta temperos  
-- [ ] Pratos  
+- [x] Pratos  
 - [x] Xícaras  
 - [ ] Forma de metal  
 - [ ] Forma de pizza  
 - [ ] _"Marinex"_  
 - [x] Potes de vidro que posso usar para guardar comida e usar no micro-ondas  
-- [ ] Copos  
+- [x] Copos  
 - [x] 1 x Panela para arroz  
 - [x] 1 x Panela para carne _(Frigideira)_  
 - [x] 1 x Panela de pressão  
@@ -52,9 +52,9 @@
 - [ ] 1 x Filtro de água  
 - [x] 2 x garrafas de vidro para salada  
 - [ ] 2 x formas de gelo  
-- [ ] Jogo Americano  
-- [ ] Toalha de mesa  
-- [ ] Pano de prato  
+- [x] Jogo Americano  
+- [x] Toalha de mesa  
+- [x] Pano de prato  
 - [ ] Tapetes  
 - [ ] Cadeiras  
 
