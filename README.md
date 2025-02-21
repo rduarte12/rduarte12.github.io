@@ -21,14 +21,14 @@
 - [x] 1 x Porta escova de dente  
 - [x] 1 x Suporte de papel higiênico  
 - [x] Tapete de banheiro  
-- [ ] 1 x Lixo  
+- [x] 1 x Lixo  
 - [x] Toalha de banho  
 - [x] Lixo de banheiro
 - [-] Escova de vaso sanitário
 
 ## Cozinha:
 
-- [ ] Lixo para cozinha  
+- [x] Lixo para cozinha  
 - [x] Garfos e facas  
 - [x] Colheres de sopa e sobremesa  
 - [x] Colher de Pau  
@@ -86,11 +86,11 @@
 - [ ] Produtos de limpeza _(Geral)_  
 - [ ] Produtos de limpeza _(Roupa)_  
 - [-] Varal  
-- [ ] Vassoura  
-- [ ] Rodo  
-- [ ] Panos  
-- [ ] 2 x Balde  
-- [ ] Prendedor de roupa  
-- [ ] Escova para esfregar roupa  
+- [x] Vassoura  
+- [x] Rodo  
+- [x] Panos  
+- [x] 2 x Balde  
+- [x] Prendedor de roupa  
+- [x] Escova para esfregar roupa  
 - [ ] sabão de coco em pedra  
 - [-] Latão de lixo _(Talvez)_
