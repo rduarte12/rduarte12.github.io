@@ -12,7 +12,7 @@
 ## **Geral:**
 
 - [x] Fósforo  
-- [ ] Escadinha / Banquinho  
+- [-] Escadinha / Banquinho  
 - [x] Espada de São Jorge  
 
 ## Banheiro:
@@ -24,7 +24,7 @@
 - [ ] 1 x Lixo  
 - [x] Toalha de banho  
 - [x] Lixo de banheiro
-- [ ] Escova de vaso sanitário
+- [-] Escova de vaso sanitário
 
 ## Cozinha:
 
@@ -50,7 +50,7 @@
 - [-] 1 x forma de alumínio para salada  
 - [x] 1 x Fruteira  
 - [x] 1 x Escorredor  
-- [ ] 1 x Filtro de água  
+- [x] 1 x Filtro de água  
 - [x] 2 x garrafas de vidro para salada  
 - [x] 1 x formas de gelo  
 - [x] Jogo Americano  
@@ -77,7 +77,7 @@
 ## Sala
 
 - [-] Tapete - Não coube
-- [ ] Almofada - Não coube 
+- [-] Almofada - Não coube 
 - [x] Televisão  
 - [-] Mesa de Centro - Não coube 
 
@@ -85,7 +85,7 @@
 
 - [ ] Produtos de limpeza _(Geral)_  
 - [ ] Produtos de limpeza _(Roupa)_  
-- [ ] Varal  
+- [-] Varal  
 - [ ] Vassoura  
 - [ ] Rodo  
 - [ ] Panos  
@@ -93,4 +93,4 @@
 - [ ] Prendedor de roupa  
 - [ ] Escova para esfregar roupa  
 - [ ] sabão de coco em pedra  
-- [ ] Latão de lixo _(Talvez)_
+- [-] Latão de lixo _(Talvez)_
