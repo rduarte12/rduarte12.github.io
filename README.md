@@ -13,16 +13,16 @@
 
 - [x] Fósforo  
 - [ ] Escadinha / Banquinho  
-- [ ] Espada de São Jorge  
+- [x] Espada de São Jorge  
 
 ## Banheiro:
 
-- [ ] 2 x Saboneteiras 
-- [ ] 1 x Porta escova de dente  
-- [ ] 1 x Suporte de papel higiênico  
-- [ ] Tapete de banheiro  
+- [x] 2 x Saboneteiras 
+- [x] 1 x Porta escova de dente  
+- [x] 1 x Suporte de papel higiênico  
+- [x] Tapete de banheiro  
 - [ ] 1 x Lixo  
-- [ ] Toalha de banho  
+- [x] Toalha de banho  
 - [x] Lixo de banheiro
 - [ ] Escova de vaso sanitário
 
@@ -32,7 +32,7 @@
 - [x] Garfos e facas  
 - [x] Colheres de sopa e sobremesa  
 - [x] Colher de Pau  
-- [ ] Espumadeira e afins  
+- [x] Espumadeira e afins  
 - [x] Faca de corte  
 - [x] Tábua  
 - [x] Porta temperos  
@@ -56,30 +56,30 @@
 - [x] Jogo Americano  
 - [x] Toalha de mesa  
 - [x] Pano de prato  
-- [ ] Tapetes  
-- [ ] Cadeiras  
+- [x] Tapetes  
+- [x] Cadeiras  
 
 ## Quarto
 
-- [ ] Roupa de cama  
-- [ ] Cobertor e manta  
-- [ ] Escrivaninha  
-- [ ] Separar roupas  
-- [ ] Separar livros  
-- [ ] Travesseiro  
-- [ ] Almofadas  
-- [ ] Cadeira de Escritório  
-- [ ] Meus itens de escritório  
-- [ ] Itens de estudo  
-- [ ] 2 x Varão  
-- [ ] 2 x Conjunto de cortina  
+- [x] Roupa de cama - Comprar
+- [x] Cobertor e manta - Comprar
+- [x] Escrivaninha  
+- [x] Separar roupas  
+- [x] Separar livros  
+- [x] Travesseiro  
+- [-] Almofadas  
+- [x] Cadeira de Escritório  
+- [x] Meus itens de escritório  
+- [x] Itens de estudo  
+- [ ] 2 x Varão - Comprar 
+- [ ] 2 x Conjunto de cortina - Comprar
 
 ## Sala
 
-- [ ] Tapete  
-- [ ] Almofada  
-- [ ] Televisão  
-- [ ] Mesa de Centro  
+- [-] Tapete - Não coube
+- [ ] Almofada - Não coube 
+- [x] Televisão  
+- [-] Mesa de Centro - Não coube 
 
 ## Lavanderia
 
