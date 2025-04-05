@@ -7,9 +7,12 @@
 - 🔭 Você pode me encontrar no **GitHub** em _**[@rduarte12](https://github.com/rduarte12)**_.
 - 📑 Sou um estudante de _Sistemas de Informação_ na _Universidade de São Paulo_.
 - 📒 **[ICMC](https://icmc.usp.br/)** - Insituto de Ciências Matemáticas e Computação.
+- 🌎 Experiência na organização e participação de Simulação da Organização das Nações Unidas
+    - _"Position Paper Award FACAMP Model United Nations";_
+    - _"Melhor Diretor dentre os Bureau's, da Simulação da Organização das Nações Unidas do Anglo Alante Crescer"._
 - 🚩 Eu estou estudando para criar soluções para a _humanidade_
     - Atualmente, estudo programação competitiva e desenvolvimento web.
-    - Sempre aberto para aprender coisas novas e desenvolver novas habilidades
+    - Sempre aberto para aprender coisas novas e desenvolver novas habilidades.
 - 📖 Fato divertido: Atualmente, eu estou lendo lendo o livro _"O Senhor dos Anéis: As Duas Torres"_.
 
 ---
