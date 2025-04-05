@@ -21,8 +21,8 @@
 
 - No repositório [**"Learning-CS50"**](https://github.com/rduarte12/Learning-Python), eu documento minha jornada ao longo do curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), um curso de Ciências da Computação oferecido por Harvard. Nele, eu compartilho meus exercícios, projetos e anotações.
 
-- No repositório [**"Learning-Puthon"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
-    - **Mapa do repositório**:
+- No repositório [**"Learning-Python"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
+    - **Mapa do repositório "Learning-Python"**:
 
         - A pasta [credit](https://github.com/rduarte12/Learning-Python/tree/main/credit) contém os arquivos de um projeto que verefica a veracidade de um cartão de crédito seguindo definições da bandeira do cartão e do algoritmo de Luhn.
 
@@ -38,6 +38,6 @@
 ### Meus "stats" no **GitHub**:
 
 <div style="display: flex; justify-content: center ; aling-items: center; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rduarte12&theme=transparent&bg_color=1C1C1C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=ADD8E6&text_color=FFF" alt="GitHub Stats" style="width: 60%;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rduarte12&layout=compact&bg_color=1C1C1C&border_color=000&title_color=ADD8E6&text_color=FFF" alt="Top Langs" style="width: 60%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rduarte12&theme=transparent&bg_color=1C1C1C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=ADD8E6&text_color=FFF" alt="GitHub Stats" style="width: 50%;">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rduarte12&layout=compact&bg_color=1C1C1C&border_color=000&title_color=ADD8E6&text_color=FFF" alt="Top Langs" style="width: 50%;">
 </div>
