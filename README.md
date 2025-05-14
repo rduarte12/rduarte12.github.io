@@ -1,46 +1,109 @@
-# 👋Olá, Eu me chamo Rafael Duarte
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rafael Mendonça Duarte - Portfólio</title>
+  <style>
+    /* Resetando margens e preenchimentos */
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f4f4f4; color: #333; }
+    header { background-color: #333; color: #fff; padding: 1rem; text-align: center; }
+    header h1 { margin-bottom: 0.5rem; }
+    nav ul { list-style: none; display: flex; justify-content: center; gap: 1rem; }
+    nav a { color: #fff; text-decoration: none; font-weight: bold; }
+    nav a:hover { text-decoration: underline; }
+    main { padding: 2rem; }
+    section { display: none; }
+    footer { background-color: #333; color: #fff; text-align: center; padding: 1rem; position: fixed; width: 100%; bottom: 0; }
+    .ativo { display: block; }
+    .tab-content { margin-top: 1rem; }
+    .tab-content ul { list-style: none; }
+    .tab-content li { margin-bottom: 0.5rem; }
+  </style>
+</head>
+<body>
 
----
+<header>
+  <h1>Rafael Mendonça Duarte</h1>
+  <nav>
+    <ul>
+      <li><a href="#" data-tab="sobre">Sobre Mim</a></li>
+      <li><a href="#" data-tab="habilidades">Habilidades</a></li>
+      <li><a href="#" data-tab="projetos">Projetos</a></li>
+      <li><a href="#" data-tab="contato">Contato</a></li>
+    </ul>
+  </nav>
+</header>
 
-### Sobre quem eu sou: 
+<main>
+  <section id="sobre" class="tab-content ativo">
+    <h2>Sobre Mim</h2>
+    <p>Sou estudante de Sistemas de Informação na Universidade de São Paulo (USP), com forte interesse em algoritmos, programação competitiva e desenvolvimento de software. Participei de diversas olimpíadas do conhecimento, conquistando medalhas e avançando até fases finais de competições, o que reforçou minha habilidade em resolução de problemas e pensamento lógico.</p>
+    <p>Tenho experiência prática com linguagens como C, C++, Python e Java, e sou familiarizado com estruturas de dados, algoritmos e integração de sistemas. Também possuo conhecimentos em Excel (intermediário), Git/GitHub e desenvolvimento em Linux. Atualmente, estou aprimorando minhas habilidades em programação competitiva e me dedicando ao aprendizado de novas tecnologias.</p>
+    <p>Além das habilidades técnicas, sou ativo em atividades extracurriculares como a SEMCOMP (Semana da Computação da USP), onde contribuo com a frente de marketing, e já exerci funções de liderança em simulações da ONU e em eventos acadêmicos. Busco oportunidades de estágio que me permitam aplicar meus conhecimentos, crescer profissionalmente e trabalhar em ambientes colaborativos e desafiadores.</p>
+  </section>
 
-- 🔭 Você pode me encontrar no **GitHub** em _**[@rduarte12](https://github.com/rduarte12)**_.
-- 📑 Sou um estudante de _Sistemas de Informação_ na _Universidade de São Paulo_.
-- 📒 **[ICMC](https://icmc.usp.br/)** - Insituto de Ciências Matemáticas e Computação.
-- 🌎 Experiência na organização e participação de Simulação da Organização das Nações Unidas
-    - _"Position Paper Award FACAMP Model United Nations";_
-    - _"Melhor Diretor dentre os Bureau's, da Simulação da Organização das Nações Unidas do Anglo Alante Crescer"._
-- 🚩 Eu estou estudando para criar soluções para a _humanidade_
-    - Atualmente, estudo programação competitiva e desenvolvimento web.
-    - Sempre aberto para aprender coisas novas e desenvolver novas habilidades.
-- 📖 Fato divertido: Atualmente, eu estou lendo lendo o livro _"O Senhor dos Anéis: As Duas Torres"_.
+  <section id="habilidades" class="tab-content">
+    <h2>Habilidades Técnicas</h2>
+    <ul>
+      <li>Programação em C, C++, Python e Java</li>
+      <li>Desenvolvimento Web com HTML, CSS e JavaScript</li>
+      <li>Uso de Git e GitHub para controle de versão</li>
+      <li>Familiaridade com frameworks como React e Next.js</li>
+      <li>Conhecimento em Excel Intermediário</li>
+    </ul>
+  </section>
 
----
----
+  <section id="projetos" class="tab-content">
+    <h2>Projetos</h2>
+    <p>Detalhes sobre meus projetos estarão disponíveis em breve.</p>
+  </section>
 
-### Meus projetos no **GitHub**:
+  <section id="contato" class="tab-content">
+    <h2>Contato</h2>
+    <p>Email: <a href="mailto:rmduarte@usp.br">rmduarte@usp.br</a></p>
+    <p>GitHub: <a href="https://github.com/rduarte12" target="_blank">github.com/rduarte12</a></p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/rafael-mendonca-duarte/" target="_blank">linkedin.com/in/rafael-mendonca-duarte</a></p>
+  </section>
+</main>
 
-- Eu utilizo  essa plataforma para registrar meu aprendizado e salvar meus projetos em repositórios.
+<footer>
+  <p>&copy; 2025 Rafael Mendonça Duarte</p>
+</footer>
 
-- No repositório [**"Learning-CS50"**](https://github.com/rduarte12/Learning-Python), eu documento minha jornada ao longo do curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), um curso de Ciências da Computação oferecido por Harvard. Nele, eu compartilho meus exercícios, projetos e anotações.
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const tabs = document.querySelectorAll('nav a');
+    const tabContents = document.querySelectorAll('.tab-content');
 
-- No repositório [**"Learning-Python"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
-    - **Mapa do repositório "Learning-Python"**:
+    tabs.forEach(tab => {
+      tab.addEventListener('click', (event) => {
+        event.preventDefault();
 
-        - A pasta [credit](https://github.com/rduarte12/Learning-Python/tree/main/credit) contém os arquivos de um projeto que verefica a veracidade de um cartão de crédito seguindo definições da bandeira do cartão e do algoritmo de Luhn.
+        // Remover a classe 'ativo' de todas as abas
+        tabs.forEach(link => link.classList.remove('ativo'));
 
-        - A pasta [exercicios](https://github.com/rduarte12/Learning-Python/tree/main/exercicios) contém alguns códigos que utilizei para fixar meu conhecimento.
+        // Adicionar a classe 'ativo' na aba clicada
+        tab.classList.add('ativo');
 
-        - A pasta [Meus_Conhecimentos](https://github.com/rduarte12/Learning-Python/tree/main/Meus_Conhecimentos) contém arquivos que utilizei para registrar meu aprendizado em python.
+        // Esconder todas as seções
+        tabContents.forEach(content => content.classList.remove('ativo'));
 
-        - No repositório [**"-Criando-um-Sistema-Bancario-em-Python-"**](https://github.com/rduarte12/-Criando-um-Sistema-Bancario-em-Python-), desenvolvi um sistema bancário que realiza saques, depósitos e extratos, como parte dos meus estudos em um "bootcamp".
+        // Mostrar a seção correspondente à aba clicada
+        const target = tab.getAttribute('data-tab');
+        const activeTab = document.getElementById(target);
+        if (activeTab) {
+          activeTab.classList.add('ativo');
+        }
+      });
+    });
 
----
----
+    // Exibir a primeira aba por padrão
+    tabs[0]?.classList.add('ativo');
+    tabContents[0]?.classList.add('ativo');
+  });
+</script>
 
-### Meus "stats" no **GitHub**:
-
-<div style="display: flex; justify-content: center ; aling-items: center; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rduarte12&theme=transparent&bg_color=1C1C1C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=ADD8E6&text_color=FFF" alt="GitHub Stats" style="width: 50%;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rduarte12&layout=compact&bg_color=1C1C1C&border_color=000&title_color=ADD8E6&text_color=FFF" alt="Top Langs" style="width: 50%;">
-</div>
+</body>
+</html>
