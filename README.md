@@ -9,17 +9,17 @@
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body { font-family: 'Arial', sans-serif; line-height: 1.6; background-color: #f4f4f4; color: #333; }
     header { background-color: #333; color: #fff; padding: 1rem; text-align: center; }
-    header h1 { margin-bottom: 0.5rem; }
+    header h1 { margin-bottom: auto; }
     nav ul { list-style: none; display: flex; justify-content: center; gap: 1rem; }
     nav a { color: #fff; text-decoration: none; font-weight: bold; }
     nav a:hover { text-decoration: underline; }
-    main { padding: 2rem; }
+    main { padding: 20px; }
     section { display: none; }
     footer { background-color: #333; color: #fff; text-align: center; padding: 1rem; position: fixed; width: 100%; bottom: 0; }
     .ativo { display: block; }
-    .tab-content { margin-top: 1rem; }
+    .tab-content { margin-top: auto; }
     .tab-content ul { list-style: none; }
-    .tab-content li { margin-bottom: 0.5rem; }
+    .tab-content li { margin-bottom: 10px; }
   </style>
 </head>
 <body>
@@ -40,7 +40,7 @@
   <section id="sobre" class="tab-content ativo">
     <h2>Sobre Mim</h2>
     <p>Sou estudante de Sistemas de Informação na Universidade de São Paulo (USP), com forte interesse em algoritmos, programação competitiva e desenvolvimento de software. Participei de diversas olimpíadas do conhecimento, conquistando medalhas e avançando até fases finais de competições, o que reforçou minha habilidade em resolução de problemas e pensamento lógico.</p>
-    <p>Tenho experiência prática com linguagens como C, C++, Python e Java, e sou familiarizado com estruturas de dados, algoritmos e integração de sistemas. Também possuo conhecimentos em Excel (intermediário), Git/GitHub e desenvolvimento em Linux. Atualmente, estou aprimorando minhas habilidades em programação competitiva e me dedicando ao aprendizado de novas tecnologias.</p>
+    <p>Tenho experiência prática com linguagens como C, C++, além de estar estudando Python e Java, e sou familiarizado com estruturas de dados, algoritmos e integração de sistemas. Também possuo conhecimentos em Excel (intermediário), Git/GitHub e desenvolvimento em Linux. Atualmente, estou aprimorando minhas habilidades em programação competitiva e me dedicando ao aprendizado de novas tecnologias.</p>
     <p>Além das habilidades técnicas, sou ativo em atividades extracurriculares como a SEMCOMP (Semana da Computação da USP), onde contribuo com a frente de marketing, e já exerci funções de liderança em simulações da ONU e em eventos acadêmicos. Busco oportunidades de estágio que me permitam aplicar meus conhecimentos, crescer profissionalmente e trabalhar em ambientes colaborativos e desafiadores.</p>
   </section>
 
@@ -48,9 +48,8 @@
     <h2>Habilidades Técnicas</h2>
     <ul>
       <li>Programação em C, C++, Python e Java</li>
-      <li>Desenvolvimento Web com HTML, CSS e JavaScript</li>
+      <li>Desenvolvimento Web com HTML, CSS</li>
       <li>Uso de Git e GitHub para controle de versão</li>
-      <li>Familiaridade com frameworks como React e Next.js</li>
       <li>Conhecimento em Excel Intermediário</li>
     </ul>
   </section>
