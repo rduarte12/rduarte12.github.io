@@ -41,7 +41,7 @@
   }
 </style>
 
-# Rafael Mendonça Duarte
+
 
 <nav>
   <a href="#sobre">Sobre Mim</a>
