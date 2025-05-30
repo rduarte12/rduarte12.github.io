@@ -1,43 +1,80 @@
-# 👋Olá, Eu me chamo Rafael Duarte
 
----
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+  }
 
-### Sobre quem eu sou: 
+  h1, h2 {
+    color: #333;
+  }
 
-- 🔭 Você pode me encontrar no **GitHub** em _**[@rduarte12](https://github.com/rduarte12)**_.
-- 📑 Sou um estudante de _Sistemas de Informação_ na _Universidade de São Paulo_.
-- 📒 **[ICMC](https://icmc.usp.br/)** - Insituto de Ciências Matemáticas e Computação.
-- 🚩 Eu estou estudando para criar soluções para a _humanidade_
-    - Atualmente, estudo programação competitiva e desenvolvimento web.
-    - Sempre aberto para aprender coisas novas e desenvolver novas habilidades
-- 📖 Fato divertido: Atualmente, eu estou lendo lendo o livro _"O Senhor dos Anéis: As Duas Torres"_.
+  nav {
+    background-color: #333;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
 
----
----
+  nav a {
+    color: #fff;
+    margin-right: 15px;
+    text-decoration: none;
+    font-weight: bold;
+  }
 
-### Meus projetos no **GitHub**:
+  nav a:hover {
+    text-decoration: underline;
+  }
 
-- Eu utilizo  essa plataforma para registrar meu aprendizado e salvar meus projetos em repositórios.
+  section {
+    margin-bottom: 40px;
+  }
 
-- No repositório [**"Learning-CS50"**](https://github.com/rduarte12/Learning-Python), eu documento minha jornada ao longo do curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), um curso de Ciências da Computação oferecido por Harvard. Nele, eu compartilho meus exercícios, projetos e anotações.
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+</style>
 
-- No repositório [**"Learning-Python"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
-    - **Mapa do repositório "Learning-Python"**:
 
-        - A pasta [credit](https://github.com/rduarte12/Learning-Python/tree/main/credit) contém os arquivos de um projeto que verefica a veracidade de um cartão de crédito seguindo definições da bandeira do cartão e do algoritmo de Luhn.
 
-        - A pasta [exercicios](https://github.com/rduarte12/Learning-Python/tree/main/exercicios) contém alguns códigos que utilizei para fixar meu conhecimento.
+<nav>
+  <a href="#sobre">Sobre Mim</a>
+  <a href="#habilidades">Habilidades</a>
+  <a href="#projetos">Projetos</a>
+  <a href="#contato">Contato</a>
+</nav>
 
-        - A pasta [Meus_Conhecimentos](https://github.com/rduarte12/Learning-Python/tree/main/Meus_Conhecimentos) contém arquivos que utilizei para registrar meu aprendizado em python.
+## Sobre Mim
 
-        - No repositório [**"-Criando-um-Sistema-Bancario-em-Python-"**](https://github.com/rduarte12/-Criando-um-Sistema-Bancario-em-Python-), desenvolvi um sistema bancário que realiza saques, depósitos e extratos, como parte dos meus estudos em um "bootcamp".
+Sou estudante de Sistemas de Informação na Universidade de São Paulo (USP), com forte interesse em algoritmos, programação competitiva e desenvolvimento de software. Participei de diversas olimpíadas do conhecimento, conquistando medalhas e avançando até fases finais de competições, o que reforçou minha habilidade em resolução de problemas e pensamento lógico.
 
----
----
+Tenho experiência prática com linguagens como C, C++, além de estar estudando Python e Java, e sou familiarizado com estruturas de dados e, algoritmos. Também possuo conhecimentos em Excel, Git/GitHub e desenvolvimento em Linux. Atualmente, estou aprimorando minhas habilidades em programação competitiva e me dedicando ao aprendizado de novas tecnologias.
 
-### Meus "stats" no **GitHub**:
+Além das habilidades técnicas, sou ativo em atividades extracurriculares como a SEMCOMP (Semana da Computação da USP), onde contribuo com a frente de marketing, e já exerci funções de liderança em simulações da ONU e em eventos acadêmicos. Busco oportunidades de estágio que me permitam aplicar meus conhecimentos, crescer profissionalmente e trabalhar em ambientes colaborativos e desafiadores.
 
-<div style="display: flex; justify-content: center ; aling-items: center; flex-direction: column;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rduarte12&theme=transparent&bg_color=1C1C1C&border_color=000&show_icons=true&icon_color=30A3DC&title_color=ADD8E6&text_color=FFF" alt="GitHub Stats" style="width: 60%;">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rduarte12&layout=compact&bg_color=1C1C1C&border_color=000&title_color=ADD8E6&text_color=FFF" alt="Top Langs" style="width: 60%;">
-</div>
+## Habilidades
+
+- Programação em C, C++, Python e Java
+- Desenvolvimento em Web (Em estudos)
+- Uso de Git e GitHub para controle de versão
+- Conhecimento em Excel
+
+## Projetos
+
+*Detalhes sobre meus projetos estarão disponíveis em breve.*
+
+## Contato
+
+- **Email:** [rmduarte@usp.br](mailto:rmduarte@usp.br)
+- **GitHub:** [github.com/rduarte12](https://github.com/rduarte12)
+- **LinkedIn:** [linkedin.com/in/rafael-mendonca-duarte](https://www.linkedin.com/in/rafael-mendonca-duarte/)
+
+<footer>
+  &copy; 2025 Rafael Mendonça Duarte
+</footer>
