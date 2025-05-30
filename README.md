@@ -21,8 +21,8 @@
 
 - No repositório [**"Learning-CS50"**](https://github.com/rduarte12/Learning-Python), eu documento minha jornada ao longo do curso [CS50: Introduction to Computer Science](https://cs50.harvard.edu/), um curso de Ciências da Computação oferecido por Harvard. Nele, eu compartilho meus exercícios, projetos e anotações.
 
-- No repositório [**"Learning-Puthon"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
-    - **Mapa do repositório**:
+- No repositório [**"Learning-Python"**](https://github.com/rduarte12/Learning-Python), eu registro meu aprendizado em 'python'.
+    - **Mapa do repositório "Learning-Python"**:
 
         - A pasta [credit](https://github.com/rduarte12/Learning-Python/tree/main/credit) contém os arquivos de um projeto que verefica a veracidade de um cartão de crédito seguindo definições da bandeira do cartão e do algoritmo de Luhn.
 
